@@ -1,0 +1,5 @@
+Torch
+Torchvision
+Matplotlib
+Numpy
+Pillow
